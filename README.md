@@ -1,16 +1,13 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## RIV-MD : *CREATED BY DARK X SHENA
 
 <br>
-
-🔮 `The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.`
-
 <br>
  
-  <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <p align="center" 
+  <a href="https://telegra.ph/file/99274136d75372ace883c.jpg">
+    <img alt="RIV-MD" height="300" src="https://telegra.ph/file/99274136d75372ace883c.jpg">
     
   
   </a>
